@@ -1,4 +1,4 @@
-<?php namespace Metricso\SignalHandler;
+<?php namespace Metricso\UnixSignalHandler;
 
 class SignalHandlerIdentifier
 {

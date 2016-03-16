@@ -1,0 +1,11 @@
+{
+    "name": "metricso/unix-signal-handler",
+    "description": "This lib allows you to register multiple unix signal handlers.",
+    "authors": [
+        {
+            "name": "Sebastian Witkowski",
+            "email": "s.witkowski@metricso.com"
+        }
+    ],
+    "require": {}
+}
